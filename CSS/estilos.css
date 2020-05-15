@@ -160,7 +160,7 @@ body {
 
   .sobre .avatar img {
     clip-path: polygon(25% 0%, 100% 1%, 100% 100%, 25% 100%, 0% 50%);
-
+  width: 90%;
   }
 
   .grid {
