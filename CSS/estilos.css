@@ -93,7 +93,7 @@ body {
   .titulo {
 
   transform: scale(0.2) translateY(50vh); opacity: 0;
-  animation: linear 2s animatitulo forwards;
+  animation: linear 0.7s animatitulo forwards;
   }
 
   @keyframes animatitulo {
