@@ -168,6 +168,16 @@ body {
     gap: 1em;
   }
 
+@media (max-width: 559px) {
+
+    .grid {
+      width: 240px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  
+  }
+
 @media (min-width: 560px) {
 
   .grid {
