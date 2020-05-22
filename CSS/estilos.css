@@ -155,6 +155,7 @@ body {
 
   .sobre .avatar {
     float: right;
+    filter: drop-shadow(9px 9px 5px black);
     margin-left: 1em;
   }
 
