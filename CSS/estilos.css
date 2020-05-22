@@ -92,13 +92,13 @@ body {
   .titulo {
 
   transform: opacity: 0;
-  animation: linear 1.7s animatitulo forwards;
+  animation: linear 2.7s animatitulo forwards;
   }
 
   @keyframes animatitulo {
 
     100% {
-      transform: opacity: 1;
+    opacity: 1;
 
     }
 
