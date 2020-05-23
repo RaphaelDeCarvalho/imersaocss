@@ -1,2 +1,2 @@
 # sobremim
-Site utilizando html e css
+Site pessoal com os meus últimos projetos utilizando html e css
