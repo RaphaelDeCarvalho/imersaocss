@@ -92,7 +92,7 @@ body {
   .titulo {
 
   opacity: 0;
-  animation: linear 3.7s animatitulo forwards;
+  animation: linear 2.7s animatitulo forwards;
   }
 
   @keyframes animatitulo {
@@ -125,7 +125,7 @@ body {
     animation: 
       typing 3.5s steps(28, end),
       blink-caret .9s step-end infinite;
-    animation-delay: 3s;
+    animation-delay: 4s;
     animation-fill-mode: forwards;
   }
   
