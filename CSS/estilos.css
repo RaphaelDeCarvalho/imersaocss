@@ -92,7 +92,7 @@ body {
   .titulo {
 
   opacity: 0;
-  animation: linear 1.7s animatitulo forwards;
+  animation: linear 3.7s animatitulo forwards;
   }
 
   @keyframes animatitulo {
