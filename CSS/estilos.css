@@ -15,13 +15,17 @@
   background-color: rgb(13, 105, 163);
   color: white;
   cursor: pointer;
-  padding: 15px;
-  border-radius: 5px;
-  font-size: 18px;
+  padding: 9px;
+  border-radius: 4px;
+  font-size: 15px;
 }
 
 #botaotop:hover {
   background-color: #555;
+}
+#botaotop:active {
+  bottom: 18px;
+  right: 28px;
 }
 body {
     background-image: url('../img/blue-gradient-background.png');
@@ -209,7 +213,7 @@ body {
 
   .grid {
     display: grid;
-    gap: 2em;
+    gap: 3em;
   }
 
 
