@@ -10,18 +10,16 @@
   bottom: 20px;
   right: 30px;
   z-index: 99;
-  border: 2px solid whitesmoke;
+  border: 0;
   outline: none;
-  background-color: rgb(13, 105, 163);
-  color: white;
+  background-color: transparent;
   cursor: pointer;
-  padding: 9px;
-  border-radius: 4px;
   font-size: 15px;
 }
 
 #botaotop:hover {
-  background-color: #555;
+  transform: rotate(360deg);
+  transition: transform 0.7s;
 }
 #botaotop:active {
   bottom: 18px;
